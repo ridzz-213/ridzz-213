@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ridzz-213
-- 👀 I’m interested in web developmen,data analyst and machine learning
-- 🌱 I’m currently learning DSA,elastic search
+- 👀 I’m interested in product managemnet roles,data analyst and machine learning
+- 🌱 I’m currently working in Quantiphi
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me THROUGH MY MAIL ridhi01bauskar@gmail.com
 
